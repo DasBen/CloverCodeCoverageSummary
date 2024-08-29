@@ -109,7 +109,7 @@ A path to the code coverage file to analyse. Also supports using glob patterns t
 
 ```yaml
 name: Code Coverage Summary Report
-uses: saschanowak/CloverCodeCoverageSummary@v1.0.0
+uses: saschanowak/CloverCodeCoverageSummary@1.0.1
 with:
   filename: clover.xml
 ```
